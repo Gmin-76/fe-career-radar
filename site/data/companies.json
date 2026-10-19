@@ -1,0 +1,31 @@
+{
+  "_note": "회사 기본 정보는 사람이 확인해 넣는 정적 데이터입니다. asOf 이후 변경은 뉴스 탭과 공시에서 확인하세요.",
+  "asOf": "2026-06",
+  "companies": [
+    {"id": "tel", "name": "도쿄일렉트론코리아", "nameEn": "Tokyo Electron", "region": "경기 남부",
+     "what": "일본 Tokyo Electron의 한국 법인. 코터/디벨로퍼, 식각, 증착, 세정 장비를 국내 메모리·파운드리 팹에 공급하고 FE가 상주해 셋업과 유지보수를 맡습니다.",
+     "hq": "일본 도쿄", "listing": "도쿄증권거래소 8035", "ceo": "Toshiki Kawai (본사 President & CEO)",
+     "stock": {"symbol": "8035.jp", "yahoo": "8035.T", "currency": "JPY"},
+     "careers": "https://www.tel.com/careers/", "newsQuery": "도쿄일렉트론"},
+    {"id": "asml", "name": "ASML코리아", "nameEn": "ASML", "region": "경기 남부",
+     "what": "네덜란드 ASML의 한국 법인. EUV·DUV 노광 장비의 설치와 고객 지원을 맡고 화성에 뉴캠퍼스를 운영합니다.",
+     "hq": "네덜란드 펠트호번", "listing": "NASDAQ ASML · Euronext Amsterdam ASML", "ceo": "Christophe Fouquet (본사 CEO)",
+     "stock": {"symbol": "asml.us", "yahoo": "ASML", "currency": "USD"},
+     "careers": "https://www.asml.com/en/careers/find-your-job", "newsQuery": "ASML"},
+    {"id": "lam", "name": "램리서치코리아", "nameEn": "Lam Research", "region": "경기 남부",
+     "what": "미국 Lam Research의 한국 법인. 식각·증착 장비 고객 지원과 용인 R&D 센터를 운영합니다.",
+     "hq": "미국 프리몬트", "listing": "NASDAQ LRCX", "ceo": "Tim Archer (본사 President & CEO)",
+     "stock": {"symbol": "lrcx.us", "yahoo": "LRCX", "currency": "USD"},
+     "careers": "https://careers.lamresearch.com/", "newsQuery": "램리서치"},
+    {"id": "amat", "name": "어플라이드머티어리얼즈코리아", "nameEn": "Applied Materials", "region": "경기 남부",
+     "what": "미국 Applied Materials의 한국 법인. 증착, 식각, CMP, 이온주입, 계측 등 가장 넓은 장비군을 지원합니다.",
+     "hq": "미국 산타클라라", "listing": "NASDAQ AMAT", "ceo": "Gary Dickerson (본사 President & CEO)",
+     "stock": {"symbol": "amat.us", "yahoo": "AMAT", "currency": "USD"},
+     "careers": "https://jobs.appliedmaterials.com/", "newsQuery": "어플라이드머티어리얼즈"},
+    {"id": "adv", "name": "어드밴테스트코리아", "nameEn": "Advantest", "region": "충청",
+     "what": "일본 Advantest의 한국 법인. 메모리·SoC 반도체 테스트 장비(ATE)의 설치와 애플리케이션 지원을 맡습니다.",
+     "hq": "일본 도쿄", "listing": "도쿄증권거래소 6857", "ceo": "Douglas Lefever (본사 CEO)",
+     "stock": {"symbol": "6857.jp", "yahoo": "6857.T", "currency": "JPY"},
+     "careers": "https://www.advantest.com/en/careers/", "newsQuery": "어드밴테스트"}
+  ]
+}
