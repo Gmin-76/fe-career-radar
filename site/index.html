@@ -181,7 +181,12 @@ function scoreJob(j, p){
   let s = 50;
   if(p.field !== "all") s += FIELD[p.field].some(k => title.includes(k)) ? 25 : -15;
   const junior = ["학사(재학)","학사","전문학사","고졸"].includes(p.edu);
-  if(junior){ if(ENTRY.some(k => title.includes(k))) s += 15; if(SENIOR.some(k => title.includes(k))) s -= 25; }
+  if(junior){
+    const entry = ENTRY.some(k => title.includes(k));
+    if(entry) s += 15;
+    if(!entry && (SENIOR.some(k => title.includes(k)) || title.includes("경력"))) s -= 25;
+    if(/석박사|석사|박사|phd|master/.test(title)) s -= 20;
+  }
   for(const id of p.have){ const c = D.certs.certs.find(x => x.id === id); if(c && c.keywords.some(k => t.includes(k.toLowerCase()))) s += 5; }
   return Math.max(0, Math.min(100, s));
 }
