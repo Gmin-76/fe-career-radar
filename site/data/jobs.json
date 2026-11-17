@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T00:51:31.989275+00:00",
+ "updated": "2026-11-17T03:29:47.259355+00:00",
  "jobs": [
   {
    "company": "amat",
@@ -120,19 +120,6 @@
   },
   {
    "company": "lam",
-   "title": "Production Planner/Master Scheduler 2",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555545800",
-   "posted": "2026-08-19",
-   "text": "Operations",
-   "id": "lamproductionplannermasterscheduler2krosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-11-11"
-  },
-  {
-   "company": "lam",
    "title": "Dir, Controller",
    "location": "KR-Osan-04 (3815)",
    "url": "https://careers.lamresearch.com/careers/job/1099556828095",
@@ -156,19 +143,6 @@
     "회사 채용페이지"
    ],
    "firstSeen": "2026-11-10"
-  },
-  {
-   "company": "lam",
-   "title": "Laboratory Service Engineer 1",
-   "location": "KR-Yongin-03 (3259)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556145057",
-   "posted": "2026-09-18",
-   "text": "Customer Support",
-   "id": "lamlaboratoryserviceengineer1kryongin033259",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-11-06"
   },
   {
    "company": "lam",
@@ -250,12 +224,12 @@
   },
   {
    "company": "lam",
-   "title": "Corporate Attorney",
+   "title": "TA Recruiting Specialist (Fixed-term)",
    "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556494663",
-   "posted": "2026-10-19",
-   "text": "Legal",
-   "id": "lamcorporateattorneykryongin023821",
+   "url": "https://careers.lamresearch.com/careers/job/1099556383865",
+   "posted": "2026-10-26",
+   "text": "Human Resources",
+   "id": "lamtarecruitingspecialistfixedtermkryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -263,12 +237,12 @@
   },
   {
    "company": "lam",
-   "title": "TA Recruiting Specialist (Fixed-term)",
+   "title": "Corporate Attorney",
    "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556383865",
-   "posted": "2026-10-26",
-   "text": "Human Resources",
-   "id": "lamtarecruitingspecialistfixedtermkryongin023821",
+   "url": "https://careers.lamresearch.com/careers/job/1099556494663",
+   "posted": "2026-10-19",
+   "text": "Legal",
+   "id": "lamcorporateattorneykryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -302,12 +276,12 @@
   },
   {
    "company": "lam",
-   "title": "Account Program Manager",
+   "title": "LSP Planner (Local Service Provider)",
    "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556511961",
-   "posted": "2026-10-21",
-   "text": "Supply Chain",
-   "id": "lamaccountprogrammanagerkryongin023821",
+   "url": "https://careers.lamresearch.com/careers/job/1099555708869",
+   "posted": "2026-08-28",
+   "text": "Business Operations",
+   "id": "lamlspplannerlocalserviceproviderkryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -315,12 +289,12 @@
   },
   {
    "company": "lam",
-   "title": "LSP Planner (Local Service Provider)",
+   "title": "Account Program Manager",
    "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555708869",
-   "posted": "2026-08-28",
-   "text": "Business Operations",
-   "id": "lamlspplannerlocalserviceproviderkryongin023821",
+   "url": "https://careers.lamresearch.com/careers/job/1099556511961",
+   "posted": "2026-10-21",
+   "text": "Supply Chain",
+   "id": "lamaccountprogrammanagerkryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -354,12 +328,12 @@
   },
   {
    "company": "lam",
-   "title": "Field Service Engineer (경력/Depo)",
+   "title": "Field Service Engineer (경력/Etch)",
    "location": "KR-Pyeongtaek-01 (3253)",
-   "url": "https://careers.lamresearch.com/careers/job/1099552517438",
+   "url": "https://careers.lamresearch.com/careers/job/1099552517311",
    "posted": "2026-03-17",
    "text": "Field Service Engineering",
-   "id": "lamfieldserviceengineer경력depokrpyeongtaek013253",
+   "id": "lamfieldserviceengineer경력etchkrpyeongtaek013253",
    "sources": [
     "회사 채용페이지"
    ],
@@ -367,12 +341,12 @@
   },
   {
    "company": "lam",
-   "title": "Field Service Engineer (경력/Etch)",
+   "title": "Field Service Engineer (경력/Depo)",
    "location": "KR-Pyeongtaek-01 (3253)",
-   "url": "https://careers.lamresearch.com/careers/job/1099552517311",
+   "url": "https://careers.lamresearch.com/careers/job/1099552517438",
    "posted": "2026-03-17",
    "text": "Field Service Engineering",
-   "id": "lamfieldserviceengineer경력etchkrpyeongtaek013253",
+   "id": "lamfieldserviceengineer경력depokrpyeongtaek013253",
    "sources": [
     "회사 채용페이지"
    ],
@@ -412,58 +386,6 @@
    "posted": "2026-10-08",
    "text": "Sales/Account Management",
    "id": "lamaccountmanager3krsongdo023218",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Test Engineer 3",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099554522210",
-   "posted": "2026-07-09",
-   "text": "Test Engineering",
-   "id": "lamtestengineer3krosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Dir, Quality Engineering_Asia",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555202651",
-   "posted": "2026-08-06",
-   "text": "Quality Engineering",
-   "id": "lamdirqualityengineeringasiakrosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Supplier/Vendor QA Engineer (Fabrication&Machining)",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555279804",
-   "posted": "2026-08-11",
-   "text": "Supply Chain",
-   "id": "lamsuppliervendorqaengineerfabricationmachiningkrosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "LMK Configuration Engineer (계약직 Bill of Materials Operator, 전공무관)",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556655897",
-   "posted": "2026-10-19",
-   "text": "Program and Project Management",
-   "id": "lamlmkconfigurationengineer계약직billofmaterialsoperator전공무관krosan043815",
    "sources": [
     "회사 채용페이지"
    ],
@@ -523,32 +445,6 @@
   },
   {
    "company": "lam",
-   "title": "Factory Support Team (Fixed Term)",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555961343",
-   "posted": "2026-09-04",
-   "text": "Program and Project Management",
-   "id": "lamfactorysupportteamfixedtermkrosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Compliance Program Coordinator for Lam Research Manufacturing Korea",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556294255",
-   "posted": "2026-10-12",
-   "text": "Administration",
-   "id": "lamcomplianceprogramcoordinatorforlamresearchmanufacturingkoreakrosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
    "title": "Factory Production Planner LMK",
    "location": "KR-Osan-04 (3815)",
    "url": "https://careers.lamresearch.com/careers/job/1099555422566",
@@ -568,6 +464,32 @@
    "posted": "2026-09-15",
    "text": "Program and Project Management",
    "id": "lamprogramprojectmanagerkinaxisprogrammanagerkrosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "LMK Configuration Engineer (계약직 Bill of Materials Operator, 전공무관)",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556655897",
+   "posted": "2026-10-19",
+   "text": "Program and Project Management",
+   "id": "lamlmkconfigurationengineer계약직billofmaterialsoperator전공무관krosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Compliance Program Coordinator for Lam Research Manufacturing Korea",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556294255",
+   "posted": "2026-10-12",
+   "text": "Administration",
+   "id": "lamcomplianceprogramcoordinatorforlamresearchmanufacturingkoreakrosan043815",
    "sources": [
     "회사 채용페이지"
    ],
@@ -601,12 +523,64 @@
   },
   {
    "company": "lam",
-   "title": "Indirect Procurement Senior Category Manager LSP and Prof Svcs.",
+   "title": "Dir, Quality Engineering_Asia",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555202651",
+   "posted": "2026-08-06",
+   "text": "Quality Engineering",
+   "id": "lamdirqualityengineeringasiakrosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Supplier/Vendor QA Engineer (Fabrication&Machining)",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555279804",
+   "posted": "2026-08-11",
+   "text": "Supply Chain",
+   "id": "lamsuppliervendorqaengineerfabricationmachiningkrosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Factory Support Team (Fixed Term)",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555961343",
+   "posted": "2026-09-04",
+   "text": "Program and Project Management",
+   "id": "lamfactorysupportteamfixedtermkrosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Test Engineer 3",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099554522210",
+   "posted": "2026-07-09",
+   "text": "Test Engineering",
+   "id": "lamtestengineer3krosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Korea Real Estate Manager for KTC R&D Center",
    "location": "KR-Yongin-03 (3259)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555953603",
-   "posted": "2026-09-10",
-   "text": "Operations",
-   "id": "lamindirectprocurementseniorcategorymanagerlspandprofsvcskryongin033259",
+   "url": "https://careers.lamresearch.com/careers/job/1099552872734",
+   "posted": "2026-10-06",
+   "text": "Program and Project Management",
+   "id": "lamkorearealestatemanagerforktcrdcenterkryongin033259",
    "sources": [
     "회사 채용페이지"
    ],
@@ -614,129 +588,12 @@
   },
   {
    "company": "lam",
-   "title": "[전문대졸 신입/경력] 공정테크니션 for KTC R&D Center",
-   "location": "KR-Yongin-03 (3259)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556175720",
-   "posted": "2026-09-28",
-   "text": "Technician",
-   "id": "lam전문대졸신입경력공정테크니션forktcrdcenterkryongin033259",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Sr. Mgr, E&C Ops Attorney",
+   "title": "Financial Analyst 3",
    "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556379892",
-   "posted": "2026-10-19",
-   "text": "Legal",
-   "id": "lamsrmgrecopsattorneykryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Field Process Engineer 4 (SKH Etch)",
-   "location": "KR-Icheon-02 (3213)",
-   "url": "https://careers.lamresearch.com/careers/job/1099553560744",
-   "posted": "2026-06-01",
-   "text": "Field Process Engineering",
-   "id": "lamfieldprocessengineer4skhetchkricheon023213",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Software Engineer Sys 2",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099552803381",
-   "posted": "2026-04-10",
-   "text": "Software Engineering",
-   "id": "lamsoftwareengineersys2kryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Safety Engineer 2",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099554423731",
-   "posted": "2026-07-14",
-   "text": "Environmental Health and Safety/Facilities",
-   "id": "lamsafetyengineer2kryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Director, Sales (Deposition_SK hynix account)",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099553620176",
-   "posted": "2026-06-25",
-   "text": "Sales/Account Management",
-   "id": "lamdirectorsalesdepositionskhynixaccountkryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Product Support Engineer(DE)",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555667214",
-   "posted": "2026-08-24",
-   "text": "Product Engineering",
-   "id": "lamproductsupportengineerdekryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Field Process Engineer(SEC/Selective Etch)",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099554137852",
-   "posted": "2026-07-10",
-   "text": "Field Process Engineering",
-   "id": "lamfieldprocessengineersecselectiveetchkryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Order Fulfillment Specialist",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099554125419",
-   "posted": "2026-06-29",
-   "text": "Operations",
-   "id": "lamorderfulfillmentspecialistkryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Field Process Engineer (SKH / Clean & EP)",
-   "location": "KR-Icheon-02 (3213)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555542274",
-   "posted": "2026-08-27",
-   "text": "Field Process Engineering",
-   "id": "lamfieldprocessengineerskhcleanepkricheon023213",
+   "url": "https://careers.lamresearch.com/careers/job/1099556316755",
+   "posted": "2026-10-08",
+   "text": "Finance/Accounting",
+   "id": "lamfinancialanalyst3kryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -757,12 +614,25 @@
   },
   {
    "company": "lam",
-   "title": "Field Service Engineer (Sabre)",
-   "location": "KR-Icheon-01 (3203)",
-   "url": "https://careers.lamresearch.com/careers/job/1099550504402",
-   "posted": "2025-11-17",
-   "text": "Field Service Engineering",
-   "id": "lamfieldserviceengineersabrekricheon013203",
+   "title": "Safety Engineer 2",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099554423731",
+   "posted": "2026-07-14",
+   "text": "Environmental Health and Safety/Facilities",
+   "id": "lamsafetyengineer2kryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Product Support Engineer(DE)",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555667214",
+   "posted": "2026-08-24",
+   "text": "Product Engineering",
+   "id": "lamproductsupportengineerdekryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -796,6 +666,58 @@
   },
   {
    "company": "lam",
+   "title": "Software Engineer Sys 2",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099552803381",
+   "posted": "2026-04-10",
+   "text": "Software Engineering",
+   "id": "lamsoftwareengineersys2kryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Sr. Mgr, E&C Ops Attorney",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556379892",
+   "posted": "2026-10-19",
+   "text": "Legal",
+   "id": "lamsrmgrecopsattorneykryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "[석/박사 경력]Process Engineer for KTC R&D Center",
+   "location": "KR-Yongin-03 (3259)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556628666",
+   "posted": "2026-10-19",
+   "text": "Process Engineering",
+   "id": "lam석박사경력processengineerforktcrdcenterkryongin033259",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Director, Sales (Deposition_SK hynix account)",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099553620176",
+   "posted": "2026-06-25",
+   "text": "Sales/Account Management",
+   "id": "lamdirectorsalesdepositionskhynixaccountkryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
    "title": "[석박사 신입/경력] Etch Process Engineer for KTC R&D Center",
    "location": "KR-Yongin-03 (3259)",
    "url": "https://careers.lamresearch.com/careers/job/1099556382015",
@@ -809,12 +731,12 @@
   },
   {
    "company": "lam",
-   "title": "Account Manager(SKH Depo)",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555143000",
-   "posted": "2026-08-07",
-   "text": "Sales/Account Management",
-   "id": "lamaccountmanagerskhdepokryongin023821",
+   "title": "Field Process Engineer (SKH / Clean & EP)",
+   "location": "KR-Icheon-02 (3213)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555542274",
+   "posted": "2026-08-27",
+   "text": "Field Process Engineering",
+   "id": "lamfieldprocessengineerskhcleanepkricheon023213",
    "sources": [
     "회사 채용페이지"
    ],
@@ -822,12 +744,12 @@
   },
   {
    "company": "lam",
-   "title": "Field Service Engineer (경력/Clean/Sabre)",
+   "title": "Field Service Engineer (Sabre)",
    "location": "KR-Icheon-01 (3203)",
-   "url": "https://careers.lamresearch.com/careers/job/1099552517601",
-   "posted": "2026-03-17",
+   "url": "https://careers.lamresearch.com/careers/job/1099550504402",
+   "posted": "2025-11-17",
    "text": "Field Service Engineering",
-   "id": "lamfieldserviceengineer경력cleansabrekricheon013203",
+   "id": "lamfieldserviceengineersabrekricheon013203",
    "sources": [
     "회사 채용페이지"
    ],
@@ -835,12 +757,12 @@
   },
   {
    "company": "lam",
-   "title": "Korea Real Estate Manager for KTC R&D Center",
-   "location": "KR-Yongin-03 (3259)",
-   "url": "https://careers.lamresearch.com/careers/job/1099552872734",
-   "posted": "2026-10-06",
-   "text": "Program and Project Management",
-   "id": "lamkorearealestatemanagerforktcrdcenterkryongin033259",
+   "title": "Order Fulfillment Specialist",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099554125419",
+   "posted": "2026-06-29",
+   "text": "Operations",
+   "id": "lamorderfulfillmentspecialistkryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -861,12 +783,12 @@
   },
   {
    "company": "lam",
-   "title": "Financial Analyst 3",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556316755",
-   "posted": "2026-10-08",
-   "text": "Finance/Accounting",
-   "id": "lamfinancialanalyst3kryongin023821",
+   "title": "[전문대졸 신입/경력] 공정테크니션 for KTC R&D Center",
+   "location": "KR-Yongin-03 (3259)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556175720",
+   "posted": "2026-09-28",
+   "text": "Technician",
+   "id": "lam전문대졸신입경력공정테크니션forktcrdcenterkryongin033259",
    "sources": [
     "회사 채용페이지"
    ],
@@ -874,12 +796,64 @@
   },
   {
    "company": "lam",
-   "title": "[석/박사 경력]Process Engineer for KTC R&D Center",
+   "title": "Indirect Procurement Senior Category Manager LSP and Prof Svcs.",
    "location": "KR-Yongin-03 (3259)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556628666",
-   "posted": "2026-10-19",
-   "text": "Process Engineering",
-   "id": "lam석박사경력processengineerforktcrdcenterkryongin033259",
+   "url": "https://careers.lamresearch.com/careers/job/1099555953603",
+   "posted": "2026-09-10",
+   "text": "Operations",
+   "id": "lamindirectprocurementseniorcategorymanagerlspandprofsvcskryongin033259",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Field Service Engineer (경력/Clean/Sabre)",
+   "location": "KR-Icheon-01 (3203)",
+   "url": "https://careers.lamresearch.com/careers/job/1099552517601",
+   "posted": "2026-03-17",
+   "text": "Field Service Engineering",
+   "id": "lamfieldserviceengineer경력cleansabrekricheon013203",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Field Process Engineer 4 (SKH Etch)",
+   "location": "KR-Icheon-02 (3213)",
+   "url": "https://careers.lamresearch.com/careers/job/1099553560744",
+   "posted": "2026-06-01",
+   "text": "Field Process Engineering",
+   "id": "lamfieldprocessengineer4skhetchkricheon023213",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Field Process Engineer(SEC/Selective Etch)",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099554137852",
+   "posted": "2026-07-10",
+   "text": "Field Process Engineering",
+   "id": "lamfieldprocessengineersecselectiveetchkryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Account Manager(SKH Depo)",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555143000",
+   "posted": "2026-08-07",
+   "text": "Sales/Account Management",
+   "id": "lamaccountmanagerskhdepokryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -1079,13 +1053,12 @@
   },
   "lam": {
    "ok": true,
-   "count": 59,
+   "count": 57,
    "msg": ""
   },
   "amat": {
-   "ok": true,
-   "count": 24,
-   "msg": ""
+   "ok": false,
+   "msg": "수집 실패, 이전 데이터 유지: HTTP Error 429: Too Many Requests"
   },
   "adv": {
    "ok": false,
