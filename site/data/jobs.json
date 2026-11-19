@@ -1,11 +1,24 @@
 {
- "updated": "2026-11-18T02:46:50.574797+00:00",
+ "updated": "2026-11-19T02:22:31.807172+00:00",
  "jobs": [
+  {
+   "company": "lam",
+   "title": "Configuration Engineer 1",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556655897",
+   "posted": "2026-10-19",
+   "text": "Program and Project Management",
+   "id": "lamconfigurationengineer1krosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-11-19"
+  },
   {
    "company": "lam",
    "title": "Supply Chain Business Mgr 3",
    "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099557056986",
+   "url": "https://careers.lamresearch.com/careers/job/1099557051239",
    "posted": "2026-11-17",
    "text": "Operations",
    "id": "lamsupplychainbusinessmgr3krosan043815",
@@ -32,8 +45,7 @@
    "title": "Customer and Commercial Operations Specialist",
    "location": "Bundang,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/BundangKOR/Customer-and-Commercial-Operations-Specialist_R2631961",
-   "posted": "Posted Yesterday",
-   "text": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Location: Bundang,KOR You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . Applied Materials Korea GCC (Global Customer Contact Center)에서 Customer and Commercial Operations Specialist를 채용하고 있습니다. Applied Materials 한국 고객들을 위한 365일 24시간 Single Contact Point로 반도체 부품과 서비스 요청에 대한 대응을 담당합니다. 주요 업무 고객 요청에 대한 견적(Quotation) 및 영업 기회(Opportunity) 생성 지원 ERP 시스템 내 견적서 및 주문 정보(Sales Order) 생성 및 정확한 데이터 관리 고객의 반도체 부품 및 서비스 요청 접수 및 대응 고객 요구사항이 원활하게 처리될 수 있도록 관련 부서와 협업 및 에스컬레이션 수행 고객 만족도 향상을 위한 이슈 관리 및 커뮤니케이션 지원 지원자격 6일 단위 교대 근무 가능자 영어 커뮤니케이션 가능자 근무형태 탄력적 근로시간제 운영 (2주 기준 80시간) 6일 단위 교대 근무 운영 3일 주간 근무 → 1일 야간 근무 → 2일 휴무 [주/주/주/야/휴/휴] 주간 근무 07:00 ~ 19:00 08:00 ~ 20:00 09:00 ~ 21:00 08:00 ~ 22:00 15:00 ~ 21:00 ※ 휴게시간 포함 ※ 근무 스케줄에 따라 변동 가능 야간 근무 19:00 ~ 07:00 휴게시간 2시간 포함 야간 근무 시 재택근무 운영 기타 주말 및 공휴일 포함 동일한 6일 단위 교대 근무 적용 Applied Materials Korea GCC (Global Customer Contact Center) is seeking a Customer and Commercial Operations Specialist. As the primary point of contact for Applied Materials customers in Korea, you will support semiconductor parts and service requests through a 24/7/365 customer support operation, ensuring timely communication and high-quality customer service. Key Responsibilities Support the creation of quotations and sales opportunities in the ERP system. Create and maintain accurate quotations and sales orders in the ERP system. Receive and respond to customer requests for semiconductor parts and services. Collaborate with internal teams and escalate issues to ensure customer requirements are met. Support issue management and customer communications to enhance customer satisfaction. Qualifications Available to work a six-day rotating shift schedule. Able to communicate effectively in English Working Schedule Flexible working hour system (80 hours over a two-week period) Six-day rotating shift schedule: Three Day Shifts → One Night Shift → Two Days Off [Day / Day / Day / Night / Off / Off] Day Shifts 07:00 - 19:00 08:00 - 20:00 09:00 - 21:00 08:00 - 22:00 15:00 - 21:00 Break times included. Day shift schedules may vary depending on the roster. Night Shift 19:00 - 07:00 Includes 2 hours of break time Work from home during night shifts Additional Information The same rotating shift schedule applies on weekends and public holidays. Additional Information Time Type: Full time Employee Type: New College Grad Travel: Yes, 10% of the Time Relocation Eligible: No Applied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law.",
+   "posted": "Posted 2 Days Ago",
    "id": "amatcustomerandcommercialoperationsspecialistbundang",
    "sources": [
     "회사 채용페이지"
@@ -199,7 +211,7 @@
    "title": "FEP/EPI Account Sales",
    "location": "Hwaseong-Lucestar,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Hwaseong-LucestarKOR/FEP-EPI-Account-Sales_R2620723",
-   "posted": "Posted 20 Days Ago",
+   "posted": "Posted 21 Days Ago",
    "id": "amatfepepiaccountsaleshwaseonglucestar",
    "sources": [
     "회사 채용페이지"
@@ -262,7 +274,8 @@
    "title": "Financial Analysis",
    "location": "Bundang,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/BundangKOR/Financial-Analysis_R2631529",
-   "posted": "Posted 22 Days Ago",
+   "posted": "Posted 23 Days Ago",
+   "text": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Location: Bundang,KOR You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . About the Role We are seeking an experienced Financial Analyst to support the Applied Global Services (AGS) business in Korea. This role serves as a key finance partner to business leaders and cross-functional teams, providing financial planning, forecasting, profitability analysis, and decision support for a dynamic semiconductor services business. The position requires a strong combination of financial analysis, business acumen, and cross-functional collaboration. The successful candidate will translate complex business and operational data into actionable financial insights and support management decisions across revenue growth, profitability, customer contracts, and strategic business initiatives. Key Responsibilities Lead and support revenue, bookings, gross margin, and business performance forecasting, including quarterly Forecast cycles and other planning cycles. Partner closely with Sales, Business Development, Field Service Operations, and other cross-functional teams to validate business assumptions and ensure financial forecasts appropriately reflect customer and operational developments. Analyze actual performance versus forecast and plan, identify key business drivers, risks and opportunities, and provide clear management commentary. Develop financial models and scenario analyses to support strategic planning, business sizing, revenue outlook, profitability improvement, and management decision-making. Perform customer and contract-level profitability analysis, including revenue, cost, gross margin, commercial credits, pricing changes, and other financial implications. Provide Finance support for new deals, contract renewals, pricing decisions, and commercial proposals, ensuring consistency among pricing, costs, margin assumptions, and P&L impacts. Monitor business trends and translate operational drivers such as customer demand, installed base growth, service activity, shipments, and business mix into financial impacts. Identify and communicate financial risks and opportunities across revenue and gross margin, and work with business partners to develop appropriate actions. Prepare financial analysis and executive-level commentary for Finance and non-Finance management reviews. Support quarter-end financial activities, including close, flash, commit, forecast updates, and variance analysis. Drive or participate in finance process improvement, reporting enhancement, system integration, and analytical automation initiatives. Maintain strong financial controls and data integrity while exercising sound judgment across multiple sources of financial and operational information. Required Qualifications Bachelor’s degree in Finance, Accounting, Economics, Business Administration, or a related discipline Relevant experience in FP&A, business finance, comme",
    "id": "amatfinancialanalysisbundang",
    "sources": [
     "회사 채용페이지"
@@ -274,26 +287,12 @@
    "title": "Business Development for Applied Global Service",
    "location": "Icheon-Gwango,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Icheon-GwangoKOR/Business-Development-for-Applied-Global-Service_R2631643",
-   "posted": "Posted 26 Days Ago",
-   "text": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Location: Icheon-Gwango,KOR You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . Position Overview Reporting to the Head of Business Development, Korea, this role will lead the development and execution of the long-term commercial strategy for the SK hynix account, with accountability for achieving Applied Materials’ Applied Global Services (AGS) financial and business objectives. The role will focus on expanding the Service Agreements business, increasing service penetration and profitability, and strengthening long-term strategic partnerships with the customer. This individual will work closely with the Global Field Group (GFG), AGS, Service Business Units (SBUs), Finance, Pricing, Product Marketing, and other key stakeholders to translate customer needs and market opportunities into sustainable business growth. Role and Key Responsibilities Develop and own the long-term account vision and strategy to expand Applied Materials’ Service Agreements business and drive sustainable growth. Partner with the management team and cross-functional stakeholders, including Product Marketing, SBUs, Pricing, and Segment Business Development, to ensure business development priorities are aligned with the organization’s strategic and financial objectives. Drive achievement of gross margin and service penetration objectives for the account. Serve as the single point of contact for GFG and AGS account teams for AGS-related commercial activities, including:Supporting GFG account teams throughout large-order processes. Partnering with GFG account teams to identify and maximize service business opportunities at the time of equipment sales. Addressing ad hoc GFG requirements related to competitive WFE opportunities and issues. Analyze market and customer data to identify trends, risks, and growth opportunities, and translate these insights into account-specific strategies, including:Understanding the customer’s technology roadmap and High Value Problems (HVPs) and aligning service penetration priorities accordingly. Driving alignment across Account Teams, SBUs, Finance, and Field/Venture stakeholders to support the service penetration strategy. Jointly owning the Strategic Negotiation Life Cycle with Account Teams. Lead Korea service business deal design and negotiation planning, ensuring commercial proposals are well structured, competitive, and aligned with AGS business principles while supporting profitability and long-term customer partnerships.Introduce and position new service enhancements such as PDP, TLM, and ECO to strengthen customer value, pricing, and margins, in alignment with headquarters priorities. Drive executive-level approvals through NSDR, as required. Skills, Knowledge, Experience & Education The ideal candidate will have: 10+ years of relevant experience, including leadership experience managing or leading a portfolio of products, ",
+   "posted": "Posted 27 Days Ago",
    "id": "amatbusinessdevelopmentforappliedglobalserviceicheongwango",
    "sources": [
     "회사 채용페이지"
    ],
    "firstSeen": "2026-10-23"
-  },
-  {
-   "company": "lam",
-   "title": "LSP Planner (Local Service Provider)",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555708869",
-   "posted": "2026-08-28",
-   "text": "Business Operations",
-   "id": "lamlspplannerlocalserviceproviderkryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-22"
   },
   {
    "company": "lam",
@@ -303,6 +302,19 @@
    "posted": "2026-10-21",
    "text": "Supply Chain",
    "id": "lamaccountprogrammanagerkryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-22"
+  },
+  {
+   "company": "lam",
+   "title": "LSP Planner (Local Service Provider)",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555708869",
+   "posted": "2026-08-28",
+   "text": "Business Operations",
+   "id": "lamlspplannerlocalserviceproviderkryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -400,38 +412,38 @@
   },
   {
    "company": "lam",
-   "title": "Test Engineer 3",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099554522210",
-   "posted": "2026-07-09",
-   "text": "Test Engineering",
-   "id": "lamtestengineer3krosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "LMK Configuration Engineer (계약직 Bill of Materials Operator, 전공무관)",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556655897",
-   "posted": "2026-10-19",
-   "text": "Program and Project Management",
-   "id": "lamlmkconfigurationengineer계약직billofmaterialsoperator전공무관krosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
    "title": "[신입/경력] Production Planner/Master Scheduler (오산)",
    "location": "KR-Osan-04 (3815)",
    "url": "https://careers.lamresearch.com/careers/job/1099555280117",
    "posted": "2026-08-10",
    "text": "Operations",
    "id": "lam신입경력productionplannermasterscheduler오산krosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Factory Support Team (Fixed Term)",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555961343",
+   "posted": "2026-09-04",
+   "text": "Program and Project Management",
+   "id": "lamfactorysupportteamfixedtermkrosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Supplier/Vendor QA Engineer (Fabrication&Machining)",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555279804",
+   "posted": "2026-08-11",
+   "text": "Supply Chain",
+   "id": "lamsuppliervendorqaengineerfabricationmachiningkrosan043815",
    "sources": [
     "회사 채용페이지"
    ],
@@ -465,71 +477,6 @@
   },
   {
    "company": "lam",
-   "title": "Factory Production Planner LMK",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555422566",
-   "posted": "2026-09-15",
-   "text": "Program and Project Management",
-   "id": "lamfactoryproductionplannerlmkkrosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Program/Project Manager (Kinaxis Program Manager)",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555439689",
-   "posted": "2026-09-15",
-   "text": "Program and Project Management",
-   "id": "lamprogramprojectmanagerkinaxisprogrammanagerkrosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Supplier/Vendor QA Engineer 3",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556023920",
-   "posted": "2026-09-15",
-   "text": "Supply Chain",
-   "id": "lamsuppliervendorqaengineer3krosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Compliance Program Coordinator for Lam Research Manufacturing Korea",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556294255",
-   "posted": "2026-10-12",
-   "text": "Administration",
-   "id": "lamcomplianceprogramcoordinatorforlamresearchmanufacturingkoreakrosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Factory Support Team (Fixed Term)",
-   "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555961343",
-   "posted": "2026-09-04",
-   "text": "Program and Project Management",
-   "id": "lamfactorysupportteamfixedtermkrosan043815",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
    "title": "Dir, Quality Engineering_Asia",
    "location": "KR-Osan-04 (3815)",
    "url": "https://careers.lamresearch.com/careers/job/1099555202651",
@@ -543,12 +490,25 @@
   },
   {
    "company": "lam",
-   "title": "Supplier/Vendor QA Engineer (Fabrication&Machining)",
+   "title": "Test Engineer 3",
    "location": "KR-Osan-04 (3815)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555279804",
-   "posted": "2026-08-11",
+   "url": "https://careers.lamresearch.com/careers/job/1099554522210",
+   "posted": "2026-07-09",
+   "text": "Test Engineering",
+   "id": "lamtestengineer3krosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Supplier/Vendor QA Engineer 3",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556023920",
+   "posted": "2026-09-15",
    "text": "Supply Chain",
-   "id": "lamsuppliervendorqaengineerfabricationmachiningkrosan043815",
+   "id": "lamsuppliervendorqaengineer3krosan043815",
    "sources": [
     "회사 채용페이지"
    ],
@@ -582,12 +542,90 @@
   },
   {
    "company": "lam",
-   "title": "Field Service Engineer (경력/Clean/Sabre)",
-   "location": "KR-Icheon-01 (3203)",
-   "url": "https://careers.lamresearch.com/careers/job/1099552517601",
-   "posted": "2026-03-17",
-   "text": "Field Service Engineering",
-   "id": "lamfieldserviceengineer경력cleansabrekricheon013203",
+   "title": "Factory Production Planner LMK",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555422566",
+   "posted": "2026-09-15",
+   "text": "Program and Project Management",
+   "id": "lamfactoryproductionplannerlmkkrosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Program/Project Manager (Kinaxis Program Manager)",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555439689",
+   "posted": "2026-09-15",
+   "text": "Program and Project Management",
+   "id": "lamprogramprojectmanagerkinaxisprogrammanagerkrosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Compliance Program Coordinator for Lam Research Manufacturing Korea",
+   "location": "KR-Osan-04 (3815)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556294255",
+   "posted": "2026-10-12",
+   "text": "Administration",
+   "id": "lamcomplianceprogramcoordinatorforlamresearchmanufacturingkoreakrosan043815",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Safety Engineer 2",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099554423731",
+   "posted": "2026-07-14",
+   "text": "Environmental Health and Safety/Facilities",
+   "id": "lamsafetyengineer2kryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Sr. Mgr, E&C Ops Attorney",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556379892",
+   "posted": "2026-10-19",
+   "text": "Legal",
+   "id": "lamsrmgrecopsattorneykryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Account Manager(SKH Depo)",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555143000",
+   "posted": "2026-08-07",
+   "text": "Sales/Account Management",
+   "id": "lamaccountmanagerskhdepokryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "[석박사 신입/경력] Etch Process Engineer for KTC R&D Center",
+   "location": "KR-Yongin-03 (3259)",
+   "url": "https://careers.lamresearch.com/careers/job/1099556382015",
+   "posted": "2026-10-15",
+   "text": "Process Engineering",
+   "id": "lam석박사신입경력etchprocessengineerforktcrdcenterkryongin033259",
    "sources": [
     "회사 채용페이지"
    ],
@@ -621,25 +659,12 @@
   },
   {
    "company": "lam",
-   "title": "Director, Sales (Deposition_SK hynix account)",
+   "title": "[램리서치] 장애인 바리스타, 테크니션 (직접계약직)",
    "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099553620176",
-   "posted": "2026-06-25",
-   "text": "Sales/Account Management",
-   "id": "lamdirectorsalesdepositionskhynixaccountkryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Safety Engineer 2",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099554423731",
-   "posted": "2026-07-14",
-   "text": "Environmental Health and Safety/Facilities",
-   "id": "lamsafetyengineer2kryongin023821",
+   "url": "https://careers.lamresearch.com/careers/job/1099553881248",
+   "posted": "2026-08-06",
+   "text": "Administration",
+   "id": "lam램리서치장애인바리스타테크니션직접계약직kryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -673,12 +698,25 @@
   },
   {
    "company": "lam",
-   "title": "Sr. Mgr, E&C Ops Attorney",
+   "title": "Field Process Engineer (SKH / Clean & EP)",
+   "location": "KR-Icheon-02 (3213)",
+   "url": "https://careers.lamresearch.com/careers/job/1099555542274",
+   "posted": "2026-08-27",
+   "text": "Field Process Engineering",
+   "id": "lamfieldprocessengineerskhcleanepkricheon023213",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Product Support Engineer(DE)",
    "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556379892",
-   "posted": "2026-10-19",
-   "text": "Legal",
-   "id": "lamsrmgrecopsattorneykryongin023821",
+   "url": "https://careers.lamresearch.com/careers/job/1099555667214",
+   "posted": "2026-08-24",
+   "text": "Product Engineering",
+   "id": "lamproductsupportengineerdekryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -686,25 +724,25 @@
   },
   {
    "company": "lam",
-   "title": "Field Service Engineer (Sabre)",
+   "title": "Director, Sales (Deposition_SK hynix account)",
+   "location": "KR-Yongin-02 (3821)",
+   "url": "https://careers.lamresearch.com/careers/job/1099553620176",
+   "posted": "2026-06-25",
+   "text": "Sales/Account Management",
+   "id": "lamdirectorsalesdepositionskhynixaccountkryongin023821",
+   "sources": [
+    "회사 채용페이지"
+   ],
+   "firstSeen": "2026-10-19"
+  },
+  {
+   "company": "lam",
+   "title": "Field Service Engineer (경력/Clean/Sabre)",
    "location": "KR-Icheon-01 (3203)",
-   "url": "https://careers.lamresearch.com/careers/job/1099550504402",
-   "posted": "2025-11-17",
+   "url": "https://careers.lamresearch.com/careers/job/1099552517601",
+   "posted": "2026-03-17",
    "text": "Field Service Engineering",
-   "id": "lamfieldserviceengineersabrekricheon013203",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "[석박사 신입/경력] Etch Process Engineer for KTC R&D Center",
-   "location": "KR-Yongin-03 (3259)",
-   "url": "https://careers.lamresearch.com/careers/job/1099556382015",
-   "posted": "2026-10-15",
-   "text": "Process Engineering",
-   "id": "lam석박사신입경력etchprocessengineerforktcrdcenterkryongin033259",
+   "id": "lamfieldserviceengineer경력cleansabrekricheon013203",
    "sources": [
     "회사 채용페이지"
    ],
@@ -718,19 +756,6 @@
    "posted": "2026-04-10",
    "text": "Software Engineering",
    "id": "lamsoftwareengineersys2kryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "[램리서치] 장애인 바리스타, 테크니션 (직접계약직)",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099553881248",
-   "posted": "2026-08-06",
-   "text": "Administration",
-   "id": "lam램리서치장애인바리스타테크니션직접계약직kryongin023821",
    "sources": [
     "회사 채용페이지"
    ],
@@ -790,38 +815,12 @@
   },
   {
    "company": "lam",
-   "title": "Account Manager(SKH Depo)",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555143000",
-   "posted": "2026-08-07",
-   "text": "Sales/Account Management",
-   "id": "lamaccountmanagerskhdepokryongin023821",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Field Process Engineer (SKH / Clean & EP)",
-   "location": "KR-Icheon-02 (3213)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555542274",
-   "posted": "2026-08-27",
-   "text": "Field Process Engineering",
-   "id": "lamfieldprocessengineerskhcleanepkricheon023213",
-   "sources": [
-    "회사 채용페이지"
-   ],
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "company": "lam",
-   "title": "Product Support Engineer(DE)",
-   "location": "KR-Yongin-02 (3821)",
-   "url": "https://careers.lamresearch.com/careers/job/1099555667214",
-   "posted": "2026-08-24",
-   "text": "Product Engineering",
-   "id": "lamproductsupportengineerdekryongin023821",
+   "title": "Field Service Engineer (Sabre)",
+   "location": "KR-Icheon-01 (3203)",
+   "url": "https://careers.lamresearch.com/careers/job/1099550504402",
+   "posted": "2025-11-17",
+   "text": "Field Service Engineering",
+   "id": "lamfieldserviceengineersabrekricheon013203",
    "sources": [
     "회사 채용페이지"
    ],
@@ -846,7 +845,6 @@
    "location": "Santa Clara,CA",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Korea-Customer-Focal_R2630956",
    "posted": "Posted 30+ Days Ago",
-   "text": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Salary: $163,000.00 - $224,000.00 Location: Santa Clara,CA You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . Key Responsibilities Provides strategic direction and owns relationship for multiple customers and regions. Primary interface between sales and BU. Prepare and set tone for customer meetings. Formulates, integrates, and coordinates division strategy for assigned account(s) and/or region(s) to achieve specific Market Share (%). Executes to product Single Page Strategy with Sales. Understands customer roadmaps and HVPs. Helps translate into product development priorities. Positions division products within assigned accounts/regions in line with customer specifications and product technical capabilities. Contributes competitive intelligence to red teams. Aligns purchase and config spec responses. Responsible for closure of hardware and process specifications (RFQs). Gathers data, conducts value pricing analysis and recommends pricing structure of products. Partners with Sales for order closure. Develops pricing strategy to introduce product enhancements to increase margin. Qualifies, schedules, and coordinates demos, visits, and source inspections. Prepares and presents level 1/2 technical presentations to customers Responsible for achieving Account/Division level financial targets (gross margin, OpEx), book/bill commit and forecast. Manages multiple projects/ programs at the division level. Assists junior colleagues. Functional Knowledge Regarded as the technical expert in their particular field Demonstrates in-depth and/or breadth of expertise in own discipline and broad knowledge of other disciplines within the function Business Expertise Anticipates business and regulatory issues; recommends product, process or service improvements Leadership Leads projects with notable risk and complexity; develops the strategy for project execution Problem Solving Solves unique and complex problems with broad impact on the business; requires conceptual and innovative thinking to develop solutions Impact Impacts the direction and resource allocation for program, project or services; works within general functional policies and industry guidelines Interpersonal Skills Communicates complex ideas, anticipates potential objections and persuades others, often at senior levels, to adopt a different point of view Additional Information Time Type: Full time Employee Type: Assignee / Regular Travel: Yes, 25% of the Time Relocation Eligible: No The salary offered to a selected candidate will be based on multiple factors including location, hire grade, job-related knowledge, skills, experience, and with consideration of internal equity of our current team members. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation such as participation in a bonus and a stock award program, as applicable. For ",
    "id": "amatkoreacustomerfocalsantaclara",
    "sources": [
     "회사 채용페이지"
@@ -859,7 +857,6 @@
    "location": "2 Locations",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/DalianCHN/Customer-Engineer--Trilingual--Chinese--English---Korean-_R2625799",
    "posted": "Posted 30+ Days Ago",
-   "text": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the boundaries of materials science and engineering to create next generation technology, join us to deliver material innovation that changes the world. What We Offer Location: Dalian,CHN, Wuxi,CHN You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . As a Field Service Engineer [Customer Engineer] at Applied Materials, you serve as the direct liaison with customers, collaborating closely to install, maintain, and upgrade equipment. You'll use digital analytics for troubleshooting and apply basic diagnostic techniques to assess and address technical issues. Your responsibilities include performing preventative and corrective maintenance on various systems such as electrical, vacuum, mechanical, plasma, hydraulic, and gas systems. Additionally, you'll coordinate and communicate directly with customers to ensure smooth operations and exceptional service. Customer Engineer (Trilingual: Chinese, English & Korean) Location: Wuxi / Dalian, China Join the Applied Materials China Field Service team and embark on an international career journey. Applied Materials provides a comprehensive technical training program and mentoring system, as well as opportunities for high-potential talent to participate in the Global Customer Service Talent Development Program, including a one-year field assignment in South Korea. During this period, you will work closely with both China- and Korea-based teams, actively participating in equipment installation, maintenance, and customer support activities. This experience will allow you to gain valuable international project exposure, strengthen cross-cultural collaboration skills, and develop professional service expertise, laying a solid foundation for becoming a global technical service professional. Key Responsibilities Equipment Installation and Technical Support Assist senior engineers with semiconductor equipment installation, commissioning, and acceptance processes. Provide customers with preventive maintenance (PM) and corrective maintenance (CM) support. Support equipment upgrade, retrofit, and performance optimization projects. Ensure stable equipment operation and meet customer production requirements. Project Execution and Customer Support Participate in on-site project execution for SK hynix customers. Collaborate with cross-regional teams in China and South Korea to support project delivery. Learn and participate in project management (PM) and site operations management activities. Build strong customer relationships and contribute to customer success. Continuous Learning and Safety Management Complete company-provided technical training, safety training, and certification programs. Continuously enhance knowledge of equipment, processes, and customer applications. Strictly comply with company and customer site requirements related to safety, environmental protection, and quality standards. Qualifications Educational Background Education Requirement: Bachelo",
    "id": "amatcustomerengineertrilingualchineseenglishkorean2locations",
    "sources": [
     "회사 채용페이지"
@@ -871,8 +868,7 @@
    "title": "Metrology Algorithm Developer for R&D TCT Korea",
    "location": "Hwaseong-Lucestar,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Hwaseong-LucestarKOR/Metrology-Algorithm-Developer-for-R-D-TCT_R2625810",
-   "posted": "Posted 6 Days Ago",
-   "text": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Location: Hwaseong-Lucestar,KOR You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . 1. Korea expert of Metrology eBeam(SEM) Algorithm development and support group(R&D TCT[Technology and Collaboration Team]) for Algorithm matters 2. Algorithm Development Working cooperation with algorithm development group in PDC & AMIND Algorithm integration in large systems considering HW and SW aspects Engage in customer facing activities to aid algorithms' proliferation at customer sites Extending tool performance with the customer oriented algorithm development for improving data reliability & measurement success, etc. Provide software specifications and production code on time to meet project milestones Close work with the applications, system, physics, software, and qualification groups in order to understand the customers’ requirements and system constraints Develop state of the art algorithms in the fields of Computer Vision, Machine Learning and Deep Learning , etc. Participating in communication chain with customer to clear understand VoC and challenges from a technical perspective to develop in the right direction Performing C&F for CIP and preliminary research for new feature in next generation algo development, and beta testing in customer site 3. Algorithm Support at Customer Site Application support for algorithm-induced challenges, such as measurement error, data reliability, correlation, and matching issues, etc. at customer site Providing the solution on Algorithm issues – Diagnostics(R/C) and troubleshooting Guiding new implemented Algorithm feature and providing training for account Apps Algorithm bug fixing – Support for worldwide reported bug fixing as a member of Algorithm developer Communicate issues and feedback to Metrology/Inspection Algorithm group and get inputs for troubleshooting at customer site Demonstrate excellent communication skills to improve customer satisfaction Requirements: Bachelor's degree, Master’s degree and above Strong theoretical foundation and >3year proven hands-on experience in Computer Vision and Image Processing algorithms Thorough understanding of probability and statistics Strong skills in developing in MATLAB and Python Ability to work independently as well as part of a team Fluent English – verbal and text Team player with excellent communication and collaboration skills Travel – capable for initial 1-2 months travel and later willingness to travel up to 30% Preferred: Theoretical and hands-on experience in detection, segmentation, image enhancement and simulations Theoretical and hands-on experience in Machine Learning Theoretical and hands-on experience in Deep Learning Understanding of imaging systems and physics Development experience in Java and C/C++ Experience in multidisciplinary and matrix organization Experienced with semiconductors organizations Additional Information Time Type: ",
+   "posted": "Posted 7 Days Ago",
    "id": "amatmetrologyalgorithmdeveloperforrdtctkoreahwaseonglucestar",
    "sources": [
     "회사 채용페이지"
@@ -885,7 +881,6 @@
    "location": "Bundang,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/BundangKOR/Director--Korea-Head-of-Global-Workplace---Infrastructure--GWI-_R2628962",
    "posted": "Posted 30+ Days Ago",
-   "text": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Location: Bundang,KOR You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . Role Applied Materials is entering a period of significant growth across Korea, with increased demand for advanced manufacturing, R&D, cleanroom, logistics, customer-facing, and workplace infrastructure. At the same time, the company is modernizing its global workplace and services portfolio to better support business growth, operational resilience, employee experience, and long-term scalability. The Director, Korea Global Workplace and Infrastructure will lead the country’s GWI organization and facilities portfolio across all Korea locations. This role has country-level accountability for the full asset lifecycle, including planning, transactions, design, construction, operations, and disposition. The portfolio includes manufacturing, service and logistics sites, complex cleanroom R&D labs, and customer-facing office environments. The Director will also lead major capital programs that may exceed $100M. As a member of the GWI APAC leadership team, this leader will partner closely with business unit executives, regional and global GWI leaders, and functional partners across Real Estate, EHS, Security, IT, Finance, Legal, Procurement, and HR. Success will require translating business requirements into executable workplace and infrastructure plans, building strong stakeholder alignment, and driving measurable year-over-year improvements in performance, efficiency, cost effectiveness, and service quality. Key Responsibilities Partner with the GWI APAC leadership team to develop and execute a multi-year Korea portfolio strategy aligned to business growth, GWI priorities, financial plans, operating requirements, and long-term workplace and infrastructure objectives. Lead the full lifecycle of real estate, workplace, infrastructure, and site services across the Korea portfolio, including site selection, transactions, design, construction project management, commissioning, operations, and ongoing facilities management. Own Korea GWI capital plans, annual operating expense plans, and forecasts. Identify and deliver cost-efficiency opportunities in partnership with Finance, Procurement, business stakeholders, and strategic suppliers. Use KPIs, service-level expectations, business reviews, and formal performance management processes to drive vendor accountability, address performance gaps, and ensure continuous improvement in service delivery, reliability, safety, and cost effectiveness. Accountable for site operations across the Korea portfolio, including technical facilities operations, equipment maintenance, infrastructure reliability, workplace services, food and beverage, janitorial, reception, office supplies, and other employee-facing services. Partner with site leadership teams to understand business needs, prioritize requests, resolve issues, and ensure a stro",
    "id": "amatdirectorkoreaheadofglobalworkplaceinfrastructuregwibundang",
    "sources": [
     "회사 채용페이지"
@@ -898,7 +893,6 @@
    "location": "Shanghai,CHN",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Module-Process-Engineer-Wuxi-Shanghai-Chinese-Korean-Speaking_R2621095",
    "posted": "Posted 30+ Days Ago",
-   "text": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Location: Shanghai,CHN You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . Key Responsibilities Lead and solve customer’s HVPs to meet business needs independently or under supporting. Engage with customers during development, transfer, ramp and HVM to understand the impact of unit process steps on fab KPI’s like yield, output and cost for a fleet of tools. Increases CSA value through defect/variability/COO reduction and PM/process Cpk/matching/Output optimization. Engages in strategic new application/product introduction projects to capture learnings and maximize service opportunities. Identifies opportunities and drives CIP’s to improve tool performance. Works closely with customers and field function teams. like FSO,TSE etc. to meet CSA performance KPI’s and gross margin objectives. Resolves complex tool issues utilizing analytics, equipment and process knowledge and systematic FV troubleshooting methodologies for effective root cause diagnostics and issues resolution. Captures learnings and case studies in FV knowledge base to develop new BKM’s and communicate to SBU/BU to strengthen Applied products. Supports resolution of process related escalations. Identifies opportunities for CSA renewal/upsell/penetration. Demonstrates depth and/or breadth of expertise in DDP/Etch and would like to cross module learning and solve customer HVPs. General Profile Requires specialized depth and/or breadth of expertise Interprets internal or external business issues and recommends best practices Solves complex problems; takes a broad perspective to identify innovative solutions. Works independently, with guidance in only the most complex situations. May lead functional teams or projects Candidates must be fluent in Korean both verbal and written Functional Knowledge Demonstrates depth and/or breadth of expertise in DDP/ETCH Business Expertise Interprets internal/external business challenges and recommends best practices to improve products, processes or services Leadership May lead functional teams or projects with moderate resource requirements, risk, and/or complexity Problem Solving Leads others to solve problems; uses sophisticated analytical thought to exercise judgment and identify innovative solutions Impact Impacts the achievement of customer, operational, project or service objectives; work is guided by functional policies Interpersonal Skills Communicates difficult concepts and negotiates with others to adopt a different point of view > 5 years experience Additional Information Time Type: Full time Employee Type: Assignee / Regular Travel: Yes, 50% of the Time Relocation Eligible: Yes Applied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, dis",
    "id": "amatmoduleprocessengineerwuxishanghaienglishkoreanspeakingshanghai",
    "sources": [
     "회사 채용페이지"
@@ -911,7 +905,6 @@
    "location": "Hwaseong-Castle,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Hwaseong-CastleKOR/EHS-Manager--Safety-Engineer_R2627428",
    "posted": "Posted 30+ Days Ago",
-   "text": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Location: Hwaseong-Castle,KOR You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . Position Overview The EHS Manager will lead Environment, Health, and Safety support for Applied Materials Korea’s Samsung account. This role ensures safe and compliant field operations, manages customer-facing EHS issues, drives execution of Applied Materials’ EHS programs, and leads a team of Safety Engineers. The position reports to the Korea Regional EHS Manager. Key Responsibilities Lead EHS support for the Samsung account, including field service, customer fab operations, project execution, and issue resolution. Manage, coach, and develop Safety Engineers by setting clear priorities, providing guidance, and supporting career growth. Partner with field teams, account management, business leaders, and Samsung stakeholders to enable safe, compliant, and efficient operations. Implement Applied Materials’ EHS programs and controls, including risk assessment, JHA, PTP, contractor safety, MOC, chemical safety, LOTO, electrical safety, fall prevention, and incident prevention. Review high-risk work, identify hazards, define controls, and support effective execution of safe work practices in customer fab environments. Provide EHS assessment and support for projects, including real estate initiatives, facility changes, and other business-critical projects requiring EHS review and risk mitigation. Lead or support incident investigations, operational learning, root cause analysis, corrective actions, and closure tracking. Monitor Korean EHS regulatory and customer requirement changes and translate them into practical guidance for field operations. Provide EHS performance updates, risk summaries, escalation items, and improvement plans to EHS and business leadership. Functional Knowledge Strong technical knowledge of occupational safety, field safety, semiconductor fab hazards, contractor safety, and customer site requirements. Solid understanding of Korean EHS regulations and customer-facing field execution requirements. Practical experience with EHS management systems, risk assessment, incident investigation, corrective action management, and field controls. Business Expertise Understands how EHS supports field execution, customer satisfaction, operational efficiency, and business continuity. Balances compliance, customer expectations, operational urgency, and practical field constraints. Experience in semiconductor, display, manufacturing, construction, equipment installation, or high-risk technical service environments is strongly preferred. Leadership Leads a team of Safety Engineers by setting clear priorities, removing barriers, developing capability, and ensuring quality execution. Acts as a trusted EHS partner to field leadership and customer-facing teams, influencing safe decision-making without slowing down business-critical operations. Demonstrate",
    "id": "amatehsmanagersafetyengineerhwaseongcastle",
    "sources": [
     "회사 채용페이지"
@@ -924,7 +917,6 @@
    "location": "Bundang,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/BundangKOR/EHS-Nurse---Fixed-Term--Maternity---Parental-Leave-Backfill-_R2630307-1",
    "posted": "Posted 30+ Days Ago",
-   "text": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Location: Bundang,KOR You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . Key Responsibilities 1. Employee Health Management Provide employee health consultations, medical assessments, first aid support, and treatment guidance for workplace and general health matters Conduct onsite health checks, such as blood pressure, blood glucose, and cholesterol screening, and support health promotion activities Manage and maintain employee health and medical records with strict confidentiality and appropriate data protection practices 2. Health Examinations & Follow-up Coordinate and oversee annual general health examinations, special health examinations, and pre-placement or job-related medical examinations; analyze medical data and follow up on potential work-related injuries and illnesses as needed Monitor examination participation, follow up with employees requiring additional care, and manage ongoing health follow-up programs Provide medical consultations related to chronic disease management, work-related employee health concerns, lifestyle risk factors, mental well-being, and job stress Understand medical surveillance requirements and manage company-required employee health surveillance programs Support job fitness evaluations and return-to-work considerations in collaboration with HR, EHS, managers, and healthcare providers as appropriate 3. Occupational Health Program Management Plan and execute occupational health programs and campaigns, including musculoskeletal disorder prevention and cardiovascular risk reduction initiatives Analyze health data to establish and improve health strategies Deliver employee training and health awareness initiatives 4. Incident & Case Management Provide initial medical response, triage guidance, and follow-up support for workplace incidents and employee health events Support work-relatedness assessment, case documentation, and reporting in relevant systems, including Gensuite where applicable Support Workers’ Compensation case management and required regulatory documentation in partnership with HR, EHS, and relevant stakeholders 5. Vendor & Site Management Coordinate external occupational health service providers, medical examination institutions, and related vendors Monitor service quality, contract deliverables, cost effectiveness, and regulatory compliance related to health service vendors Support multi-site occupational health operations, including both direct and outsourced health management arrangements 6. Compliance & Audit Support Ensure occupational health activities are aligned with the Korean Occupational Safety and Health Act and applicable internal company requirements Maintain required health documentation and support internal audits, external inspections, and corrective actions as needed Qualifications Required Bachelor’s degree in nursing or a related healthcare field Valid Korean regi",
    "id": "amatehsnursefixedtermmaternityparentalleavebackfillbundang",
    "sources": [
     "회사 채용페이지"
@@ -961,6 +953,7 @@
    "location": "Hwaseong-Lucestar,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Hwaseong-LucestarKOR/FEP-Customer-Support-Technician_R2517531",
    "posted": "Posted 30+ Days Ago",
+   "text": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the boundaries of materials science and engineering to create next generation technology, join us to deliver material innovation that changes the world. What We Offer Location: Hwaseong-Lucestar,KOR You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . Key Responsibilities Performs standard Tier I procedures including wafer measurement. Performs preventative maintenance and wet cleans independently. Assists senior engineers with corrective maintenance as needed. Disassembles, cleans and rebuilds kits as part of kit management quality. Learns and applies diagnostic techniques and use of documentation and test equipment with assistance from senior engineers. Able to diagnose and resolve basic technical problems. Strives to perform BKM’s. Uses knowledge management systems. Follows all IP guidelines. Has the ability to represent Applied Materials to the customer. Uses good customer service skills at all times while maintaining a professional demeanor. Displays respect for the customer by maintaining a neat and orderly work area. Demonstrates a positive attitude in less than optimal customer situations. Complies with all safety procedures and consistently demonstrates safety as a value. Other Requirements : This is a physically demanding position that often requires extensive walking, standing for extended periods of time, working in tight spaces, bending, squatting, twisting, kneeling, reaching, climbing stairs and ladders, lifting up to 35 lbs., the ability to distinguish between colors, the ability to work in an environment with noise that may be difficult for some individuals with sensitivity to noise, and the use of hand and power tools. Additionally, because this position generally involves working in a clean room, it requires the use of appropriate Personal Protective Equipment such as coveralls, hoods, booties, safety glasses, gloves, respirators, chemical aprons, and face shields. Functional Knowledge Has developed analytical skills and application of scientific methods to perform a variety of activities Business Expertise Has good understanding of how the team integrates with others Leadership Has no supervisory responsibilities Problem Solving Recognizes and solves typical problems that can occur in own work area without supervisory approval; evaluates and selects solutions from established operating procedures and/or scientific methods ​ Impact Impacts the quality of own work Interpersonal Skills Uses communication skills to exchange of information Additional Information Time Type: Full time Employee Type: Assignee / Regular Travel: Yes, 20% of the Time Relocation Eligible: No Applied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohi",
    "id": "amatfepcustomersupporttechnicianhwaseonglucestar",
    "sources": [
     "회사 채용페이지"
@@ -973,7 +966,6 @@
    "location": "Pyeongtaek-NF Summit,KOR",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Pyeongtaek-NF-SummitKOR/Ion-Implant-VSE--Customer-Engineer_R2519323-1",
    "posted": "Posted 30+ Days Ago",
-   "text": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the boundaries of materials science and engineering to create next generation technology, join us to deliver material innovation that changes the world. What We Offer Location: Pyeongtaek-NF Summit,KOR You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . As a Field Service Engineer [Customer Engineer] at Applied Materials, you serve as the direct liaison with customers, collaborating closely to install, maintain, and upgrade equipment. You'll use digital analytics for troubleshooting and apply basic diagnostic techniques to assess and address technical issues. Your responsibilities include performing preventative and corrective maintenance on various systems such as electrical, vacuum, mechanical, plasma, hydraulic, and gas systems. Additionally, you'll coordinate and communicate directly with customers to ensure smooth operations and exceptional service. Role Responsibilities: Collaborate with Senior Field Service Engineers [Customer Engineers] in installing, maintaining, and upgrading customer equipment Use digital analytics for troubleshooting Apply basic diagnostic techniques to assess equipment and address technical issues, with guidance from Senior Field Service Engineers [Customer Engineers] Perform preventative and corrective maintenance on electrical, vacuum, mechanical, plasma, hydraulic, and gas systems (training provided) Coordinate and communicate directly with customers Fulfill additional duties, as assigned Minimum Qualifications: Completion of an Associate degree, military technical training, field service experience, or trade certification 1–2 years of work experience in customer/field service support, or a related technical field Ability to read and interpret electrical and mechanical schematics Experience diagnosing and resolving basic technical challenges Basic mechanical aptitude with pneumatics, hydraulics, electronics, vacuum, or thermodynamics Familiarity with hand tools and their appropriate usage, including digital multimeters Effective written and verbal communication skills Basic knowledge of Microsoft Excel, Word, and PowerPoint Possession of a valid driver’s license and the ability to obtain a passport, if travel is required. Able to meet all on-site requirements, including safety, environmental guidelines, and COVID-19 protocols Preferred Qualifications: 2–4 years of work experience in customer/field service support, or a related technical field Physical Requirements: This position often requires extensive walking, standing for extended periods of time, working in tight spaces, bending, squatting, twisting, kneeling, reaching, climbing stairs and ladders, working at height, lifting up to 35 lbs., the ability to distinguish between colors and working with electricity, the ability to work in an environment with noise that may be difficult for some individuals with sensitivity to noise, and the use of hand and power tools. Additionally, because this position gener",
    "id": "amationimplantvsecustomerengineerpyeongtaeknfsummit",
    "sources": [
     "회사 채용페이지"
